@@ -75,10 +75,6 @@ A método `main()` é responsável por orquestrar o fluxo principal do programa.
 * Quais são as principais operações que o sistema bancário atualizado deve implementar? Depósito, saque, extrato, criação de usuários e contas.
 * O que é o Simulador Bancário em Python? É um programa que simula um sistema bancário básico, permitindo a realização de operações como depósito, saque e exibição de extrato.
 
-### Considerações Finais
-
-O **Simulador Bancário** oferece uma maneira simples de simular operações bancárias básicas. Ele é modular, facilitando a manutenção e expansão das funcionalidades. O código é estruturado, utiliza boas práticas de programação e fornece uma experiência interativa para o usuário.
-
 ### A construção desse código apresentou alguns desafios notáveis:
 
 1. **Lógica das Operações Bancárias**: Criar a lógica precisa para as operações de depósito e saque, considerando limites de saldo, limite de saques e registro de extrato, requer uma compreensão sólida das regras bancárias e a habilidade de implementá-las corretamente.
@@ -95,7 +91,9 @@ O **Simulador Bancário** oferece uma maneira simples de simular operações ban
 
 7. **Integração de Funções e Classes**: Fazer com que as diferentes partes do código funcionem harmoniosamente pode ser um desafio. As funções precisam interagir corretamente e compartilhar informações de forma precisa para garantir que o programa funcione como um todo entre as classes e módulos.
 
-Superar esses desafios exigiu um bom entendimento das regras bancárias, bem como habilidades de programação sólidas para implementar as funcionalidades de maneira precisa e eficaz. Além disso, foi necessário testar e ajustar o código para garantir que ele funcione corretamente em várias situações e com diferentes entradas do usuário.
+### Considerações Finais
+
+O **Simulador Bancário** oferece uma maneira simples de simular operações bancárias básicas. Ele é modular, facilitando a manutenção e expansão das funcionalidades. O código é estruturado, utiliza boas práticas de programação e fornece uma experiência interativa para o usuário. Com isso, superar esses desafios exigiu um bom entendimento das regras bancárias, bem como habilidades de programação sólidas para implementar as funcionalidades de maneira precisa e eficaz. Além disso, foi necessário testar e ajustar o código para garantir que ele funcione corretamente em várias situações e com diferentes entradas do usuário.
 
 <hr>
 
