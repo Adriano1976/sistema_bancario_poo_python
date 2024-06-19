@@ -6,7 +6,7 @@
 
   ![image](https://github.com/Adriano1976/sistema_bancario_poo_python/assets/17755195/b8534ccd-666a-47e4-8876-e9016dea1a1e)
 
-   ⚙ Um sistema bancário é um conjunto de processos e tecnologias utilizados por instituições financeiras para gerenciar suas operações financeiras, como abertura de contas, depósitos, empréstimos, transferências, saldo, extrato, investimentos e outros. 
+   ⚙ Um sistema bancário é um conjunto de processos e tecnologias utilizados por instituições financeiras para gerenciar suas operações financeiras, como abertura de contas, depósitos, empréstimos, transferências, saldo, extrato, investimentos e outras implementações. 
 
   👉 Este é o desafio do **Bootcamp Coding The Future Vivo - Python AI Backend Developer**, cujo tema é "Criando um Sistema Bancário com Python" onde a intenção do código é implementar três operações: depósito, saque e extrato para um banco que deseja monetizar suas operações em Python.
 
