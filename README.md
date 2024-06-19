@@ -61,6 +61,20 @@ A método `def validar(cpf)`, da classe ValidadorCPF e módulo validador_cpf, co
 
 A método `main()` é responsável por orquestrar o fluxo principal do programa. Ela mantém um loop contínuo para interação com o usuário, oferecendo as opções do menu e invocando as funções correspondentes de acordo com a escolha do usuário.
 
+### Principais pontos
+
+**Implementação em Python**: Atualização do sistema bancário para armazenar dados em objetos.
+**Modelo de classes UML**: Seguir o modelo de classes UML na implementação.
+**Operações básicas**: Implementação de depósito, saque, extrato, criação de usuários e contas.
+**Simulador Bancário**: Programa em Python que simula operações bancárias básicas.
+**Menu interativo**: Menu com opções de depósito, saque, extrato, nova conta e listagem de contas.
+
+### Perguntas importantes
+
+* Qual a finalidade da atualização do sistema bancário em Python? A finalidade é armazenar os dados de clientes e contas em objetos ao invés de dicionários.
+* Quais são as principais operações que o sistema bancário atualizado deve implementar? Depósito, saque, extrato, criação de usuários e contas.
+* O que é o Simulador Bancário em Python? É um programa que simula um sistema bancário básico, permitindo a realização de operações como depósito, saque e exibição de extrato.
+
 ### Considerações Finais
 
 O **Simulador Bancário** oferece uma maneira simples de simular operações bancárias básicas. Ele é modular, facilitando a manutenção e expansão das funcionalidades. O código é estruturado, utiliza boas práticas de programação e fornece uma experiência interativa para o usuário.
